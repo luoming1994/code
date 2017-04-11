@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//	atest file
+//	a test file
 void main()
 {
 	print("Hello world!/n");
